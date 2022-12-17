@@ -1,0 +1,29 @@
+.styletable{
+    width: 100%;
+    max-width: 1920px;
+    min-width: 250px;
+    height: 10px;
+}
+#photostyle{
+    border: solid #EFA37F 4px ;
+    border-radius: 20px;
+    border-style: groove;
+    padding: 10px;
+}
+.photo{
+    max-width: 200px;
+    min-width: 100px;
+    border: 4px;
+    border-color: #01539D;
+    border-image: 4px;
+}
+.style2{
+    
+    margin: auto;
+    max-width: 1000px;
+    min-width: 300px;
+    margin-left: 70px;
+}
+.hr{
+    max-width: 850px;
+}
